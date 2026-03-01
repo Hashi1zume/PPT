@@ -1,0 +1,14 @@
+# Models
+*.pth
+# Outputs and logs
+output/
+log/
+
+images/
+
+*/data/
+multi-view-PPT/
+single-view-PPT/data
+single-view-PPT/output/
+single-view-PPT/_log/
+single-view-PPT/models/
